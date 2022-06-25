@@ -1,4 +1,4 @@
-#mail box parser to list all the sender's emails
+#mail box parser to list all the sender's emails and how many emails they sent
 
 fname = input("Enter file name: ")
 if len(fname) < 1 :
